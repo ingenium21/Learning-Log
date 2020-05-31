@@ -3,3 +3,6 @@ __pycache__/
 
 #virtual environment 
 ll_venv/
+
+#dataabase
+*.sqlite3
